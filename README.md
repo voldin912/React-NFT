@@ -7,7 +7,7 @@
 ## Related Topics
 
 * *[HTML Basics](https://github.com/learning-zone/html-basics)*
-* *[CSS Basics](https://github.com/learning-zone/css-basics)*
+* *[CSS Basics](https://github.com/learning-zone/css-basics )*
 * *[JavaScript Basics](https://github.com/learning-zone/javascript-basics)*
 * *[React Coding Practice](react-coding-practice.md)*
 * *[React Quick Reference](react-quick-reference.md)*
